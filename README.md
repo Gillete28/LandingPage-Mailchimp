@@ -1,2 +1,3 @@
 # LandingPage
-# LandingPage-Mailchimp
+Landing page using Bootstrap with Mailchip API
+
